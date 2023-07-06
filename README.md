@@ -1,5 +1,6 @@
 # Diwali-Sales-Analysis
 Project Description: Diwali Sales Analysis
+
 The Diwali Sales Analysis project aims to provide valuable insights into sales data during the Diwali festival period. The project utilizes Exploratory Data Analysis (EDA) techniques and the powerful Pandas library to analyze and extract meaningful information from the dataset. The findings and visualizations generated through this analysis help identify trends, patterns, and top-selling products, enabling businesses to make data-driven decisions and optimize their sales strategies.
 
 Tools and Libraries Used:
